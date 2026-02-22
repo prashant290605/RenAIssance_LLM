@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+datasets
+evaluate
+jiwer
+pillow
+tqdm
+accelerate
+sentencepiece
+pandas
+numpy
+tensorboard
+scikit-learn
